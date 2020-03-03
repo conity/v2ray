@@ -1,10 +1,10 @@
 
-###original script(Websocket+TLS+Nginx):
+### original script(Websocket+TLS+Nginx):
 ```
 bash <(curl -L -s https://raw.githubusercontent.com/conity/v2ray/master/install.sh) | tee v2ray_ins.log
 ```
 
-###BBR
+### BBR
 ```
 wget --no-check-certificate https://github.com/teddysun/across/raw/master/bbr.sh && chmod +x bbr.sh && ./bbr.sh
 ```
